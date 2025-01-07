@@ -1,8 +1,8 @@
 # agroclimatico 1.1.0 
 
-## 05/12/2023
+## 05/12/2024
 
-El paquete pasá la revisión de rOpenSci, cambia la subservsión a 1.1.0 
+El paquete pasá la revisión de rOpenSci, cambia la versión a 1.1.0 
 
 ## 26/11/2024- [Revisión para rOpenSci, 2](https://github.com/ropensci/software-review/issues/599)
 

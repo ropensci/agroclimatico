@@ -36,11 +36,11 @@ Para instalar la versión actual del paquete podés usar:
 ```r
 install.packages("agroclimatico", repos = "https://ropensci.r-universe.dev")
 ```
-O ussando `remotes`:
+O usando `remotes`:
 
 ``` r
-# install.packages("remotes")
-remotes::install_github("ropensci/agroclimatico", build_vignettes = TRUE)
+# install.packages("pak")
+pak::pkg_install("ropensci/agroclimatico")
 ```
 
 

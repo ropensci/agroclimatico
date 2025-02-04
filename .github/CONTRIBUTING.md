@@ -1,8 +1,15 @@
 # Contribuir a agroclimatico
 
 Este documento es una guía para proponer un cambio en agroclimatico. 
-Para obtener información más detallada sobre cómo contribuir a este, y otros paquetes ordenados, por favor revisa la 
-[**guía de contribución al desarrollo**](https://rstd.io/tidy-contrib). 
+
+## Requerimientos técnicos
+
+Si deseas constribuir al código de agroclimatico necesitaras instalar las dependencias de sistema y de paquetes. 
+Para instalar los paquetes de R necesarios para el desarrollo de agroclimatico es útil utilizar `devtools::install_deps()`.
+
+agroclimatico además utiliza el paquete `sf` para la manipulación de los mapas. Este paquete requiere de una serie de dependencias de sistema, por favor revisa 
+las [instrucciones de instalación de sf](https://r-spatial.github.io/sf/#installing) específicas al sistema operativo de tu computadora para instalarlo.
+
 
 ## Arreglar los errores de escritura
 

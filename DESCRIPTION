@@ -23,7 +23,9 @@ Authors@R:
            role = c("cph")),
       person("Ruida", "Zhong", role = "cph"),
       person("Verónica", "Cruz-Alonso", role = "rev",
-    comment = "Verónica revisó el paquete (v. 1.1.0) para rOpenSci, <https://github.com/ropensci/software-review/issues/599>")
+    comment = "Verónica revisó el paquete (v. 1.1.0) para rOpenSci, <https://github.com/ropensci/software-review/issues/599>"),
+    person("Priscilla", "Minotti", role = "rev",
+    comment = "Priscilla revisó el paquete (v. 1.1.0) para rOpenSci, <https://github.com/ropensci/software-review/issues/599>")
       )
 Description: Conjunto de funciones para calcular índices y estadísticos climáticos 
     hidrológicos a partir de datos tidy. Incluye una función para graficar resultados 

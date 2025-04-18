@@ -23,7 +23,7 @@ Si es \code{NULL}, devuelve todas las provincias de Argentina.}
 }
 \value{
 Devuelve una tibble con las variables necesarias para generar un mapa
-utilizando \link{ggplot2} y \link{sf}.
+utilizando \pkg{ggplot2} y \pkg{sf}.
 }
 \description{
 Mapas de Argentina, sus provincias, departamentos y paises limítrofes. Los

@@ -11,7 +11,7 @@
 #' @param departamentos lógico. Si es `TRUE` grafica los departamentos.
 #'
 #' @return Devuelve una tibble con las variables necesarias para generar un mapa
-#' utilizando [ggplot2] y [sf].
+#' utilizando \pkg{ggplot2} y \pkg{sf}.
 #'
 #' @details
 #' Los nombres de las provincias e [mapa_provincias()] son: Buenos Aires, Catamarca,

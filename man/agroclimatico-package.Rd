@@ -32,8 +32,9 @@ Other contributors:
 \itemize{
   \item Yanina Bellini Saibene \email{yabellini@gmail.com} [contributor]
   \item  INTA [copyright holder]
-  \item Ruida Zhong [copyright holder]
+  \item Ruida Zhong (Autor del paquete scPDSI cuyo codigo es usado en agroclimatico) [copyright holder]
   \item Verónica Cruz-Alonso (Verónica revisó el paquete (v. 1.1.0) para rOpenSci, <https://github.com/ropensci/software-review/issues/599>) [reviewer]
+  \item Priscilla Minotti (Priscilla revisó el paquete (v. 1.1.0) para rOpenSci, <https://github.com/ropensci/software-review/issues/599>) [reviewer]
 }
 
 }

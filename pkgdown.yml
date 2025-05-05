@@ -3,7 +3,7 @@ pkgdown: 2.1.2
 pkgdown_sha: ~
 articles:
   estadisticas-e-indices-climaticos: estadisticas-e-indices-climaticos.html
-last_built: 2025-05-05T06:06Z
+last_built: 2025-05-05T06:12Z
 urls:
   reference: https://agrometeorologiainta.github.io/agroclimatico/reference
   article: https://agrometeorologiainta.github.io/agroclimatico/articles

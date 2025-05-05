@@ -39,7 +39,7 @@ Para instalar la versión actual del paquete podés usar:
 install.packages("agroclimatico", repos = "https://ropensci.r-universe.dev")
 ```
 
-O usando `remotes`:
+O usando `pak`:
 
 ``` r
 # install.packages("pak")
